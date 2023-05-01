@@ -6,6 +6,8 @@
 --|To|
 --|Them|
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/backend/main/ScriptBackEndInitiliaze"))()
+
 if game.PlaceId == 6722284015 then -- Pistol 1V1
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/Pistol1v1/main/Script"))()
 elseif game.PlaceId == 286090429 then -- Arsenal
