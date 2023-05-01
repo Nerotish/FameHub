@@ -1,20 +1,23 @@
+--|Made|
+--|By|
+--|Fames|
+--|/Akira|
+--|All Credits|
+--|To|
+--|Them|
+
 if game.PlaceId == 6722284015 then -- Pistol 1V1
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/Pistol1v1/main/Script"))()
-end
 elseif game.PlaceId == 286090429 then -- Arsenal
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/FreeArsenalScript/main/Main"))()
-end
 elseif game.PlaceId == 2753915549 then -- Blox Fruits
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/FameHubBloxFruitsFree/main/main.cppfile"))()
-end
-elseif game.PlaceId == 11729688377 -- Booga Booga [REBORN]
+elseif game.PlaceId == 11729688377  then -- Booga Booga [REBORN]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/BoogaRemake/main/main"))()
-end
 elseif game.PlaceId == 2202352383 or game.PlaceId == 10710676163 then -- Super Power Training Simulator (ORIGIN AND CLASSIC)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/FameHubSPTS/main/mainspts"))()
 elseif game.PlaceId == 142823291 then -- Murder Mystery 2
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/Mm2Free/main/MAINOBFUSCATED"))()
-end
 elseif game.PlaceId == 8750997647 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/TappingLegendsX/main/Free"))()
 end
