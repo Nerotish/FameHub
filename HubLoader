@@ -6,20 +6,25 @@
 --|To|
 --|Them|
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/backend/main/ScriptBackEndInitiliaze"))()
-
 if game.PlaceId == 6722284015 then -- Pistol 1V1
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/Pistol1v1/main/Script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/backend/main/ScriptBackEndInitiliaze"))()
 elseif game.PlaceId == 286090429 then -- Arsenal
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/FreeArsenalScript/main/Main"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/backend/main/ScriptBackEndInitiliaze"))()
 elseif game.PlaceId == 2753915549 then -- Blox Fruits
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/FameHubBloxFruitsFree/main/main.cppfile"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/backend/main/ScriptBackEndInitiliaze"))()
 elseif game.PlaceId == 11729688377  then -- Booga Booga [REBORN]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/BoogaRemake/main/main"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/backend/main/ScriptBackEndInitiliaze"))()
 elseif game.PlaceId == 2202352383 or game.PlaceId == 10710676163 then -- Super Power Training Simulator (ORIGIN AND CLASSIC)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/FameHubSPTS/main/mainspts"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/backend/main/ScriptBackEndInitiliaze"))()
 elseif game.PlaceId == 142823291 then -- Murder Mystery 2
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/Mm2Free/main/MAINOBFUSCATED"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/backend/main/ScriptBackEndInitiliaze"))()
 elseif game.PlaceId == 8750997647 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/TappingLegendsX/main/Free"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nerotish/backend/main/ScriptBackEndInitiliaze"))()
 end
